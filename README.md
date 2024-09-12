@@ -1,5 +1,5 @@
-# AIML-2025-2303A51034
-# P.Chandra Vardhan Reddy
+# AIML-2025-2303A51006
+# B.Ram charan
 # Artifical Intelligence and Machine Learning Lab Instructions Sheets
 1. [lab 01](https://github.com/2303A51034/AIML-2025/blob/main/AIML_A1.pdf): Introduction to Python Libraries-Numpy
 2. [lab 02](https://github.com/2303A51034/AIML-2025/blob/main/AIML_A2.pdf): Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
